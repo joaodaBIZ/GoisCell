@@ -21,3 +21,8 @@
 .menu-lateral{
     
 }
+.celularquebrado{
+    width: 1487px;
+    height: 576px;
+    flex-shrink: 0; 
+}
