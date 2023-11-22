@@ -46,5 +46,17 @@ background: #274F5C;
 width: 1487px;
 height: 108px;
 flex-shrink: 0;
-background: linear-gradient(180deg, #33BD27 0%, rgba(51, 189, 39, 0.00) 100%);rodape
+background: linear-gradient(180deg, #33BD27 0%, rgba(51, 189, 39, 0.00) 100%);
+}
+
+.celular{
+    left: 120px;
+    top:150px;
+    position: absolute;
+    padding: 24px 0;
+}
+.celular-todos{
+    display: grid;
+    text-align: center;
+    grid-template-columns: 30% 30% 30%;
 }
