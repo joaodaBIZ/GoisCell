@@ -5,7 +5,7 @@
     background: linear-gradient(180deg, #33BD27 0%, rgba(51, 189, 39, 0.00) 100%);   
 }
 .cabec-img{
-    max-width: 100%;
+     max-width: 100%;
     height: auto;
     display: block;
     margin: 0 auto;
@@ -19,7 +19,10 @@
 }   
 
 .menu-lateral{
-    
+width: 424px;
+height: 760px;
+flex-shrink: 0;
+background: linear-gradient(180deg, #2AD75A 0%, #F5F5F5 99.99%, rgba(215, 42, 42, 0.00) 100%);
 }
 .celularquebrado{
     width: 1487px;
