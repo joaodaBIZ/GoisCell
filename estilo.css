@@ -5,10 +5,10 @@
     background: linear-gradient(180deg, #33BD27 0%, rgba(51, 189, 39, 0.00) 100%);   
 }
 .cabec-img{
-    left: 200%;
-    width: 557px;
-    height: 185px;
-    flex-shrink: 0;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 .menu{
