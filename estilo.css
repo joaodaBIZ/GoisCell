@@ -13,11 +13,11 @@
 }
 
 .menu{
-    position: absolute;
+    
     text-align: center;
     max-width: 100%;
     width: 1487px;
-    height: 227px;
+    height: 35;
     flex-shrink: 0;
     background: #274F5C;
 }   
