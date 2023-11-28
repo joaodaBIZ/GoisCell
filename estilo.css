@@ -13,6 +13,8 @@
 }
 
 .menu{
+    position: absolute;
+    text-align: center;
     max-width: 100%;
     width: 1487px;
     height: 227px;
