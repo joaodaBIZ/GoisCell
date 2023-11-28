@@ -68,5 +68,8 @@ flex-shrink: 0;
 background: linear-gradient(180deg, #33BD27 0%, rgba(51, 189, 39, 0.00) 100%);
 }
 .menumotorola{
-    
+    width: 1487px;
+height: 227px;
+flex-shrink: 0;
+background: #274F5C;
 }
