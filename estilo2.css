@@ -1,3 +1,18 @@
+.cabec1{
+    max-width: 100%;
+    width: 1487px;
+    height: 420px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, #33BD27 0%, rgba(51, 189, 39, 0.00) 100%); 
+}
+.cabec-img1{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
 .celular{
     left: 120px;
     top:150px;
