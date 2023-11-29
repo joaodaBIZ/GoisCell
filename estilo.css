@@ -28,13 +28,8 @@ height: 760px;
 flex-shrink: 0;
 background: linear-gradient(180deg, #2AD75A 0%, #F5F5F5 99.99%, rgba(215, 42, 42, 0.00) 100%);
 }
-.celularquebrado{
-    
-    max-width: 100%;
-    width: 1487px;
-    height: 40px;
-    flex-shrink: 0; 
-}
+
+
 .famili{
     max-width: 100%;
  width: 800px;
