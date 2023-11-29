@@ -42,6 +42,10 @@ width: 1400px;
 height: 108px;
 flex-shrink: 0;
 }
+.rodape-img{
+    text-align: center;
+    width: 60%;
+}
 .rodapenu{
     max-width: 100%;
 width: 1400px;
