@@ -17,7 +17,7 @@
     text-align: center;
     max-width: 100%;
     width: 1487px;
-    height: 35;
+    height: 20;
     flex-shrink: 0;
     background: #274F5C;
 }   
@@ -49,7 +49,7 @@ flex-shrink: 0;
 background: #274F5C;
 }
 
-.rodape{
+.rodapefinal{
     max-width: 100%;
     width: 1900px;
     height: 205px;
