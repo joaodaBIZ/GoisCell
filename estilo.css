@@ -13,13 +13,21 @@
 }
 
 .menu{
-    
+    color: #000;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
    
     max-width: 100%;
     width: 1400px;
     height: 20px;
     flex-shrink: 0;
     background: #274F5C;
+
+
 }   
 
 .menu-lateral{
@@ -44,7 +52,7 @@ flex-shrink: 0;
 }
 .rodape-img{
     text-align: center;
-    width: 60%;
+    width: 100%;
 }
 .rodapenu{
     max-width: 100%;
@@ -74,6 +82,9 @@ background: #274F5C;
    
 }
 .menu-lista-item{
+    
+
+
     display: inline-block;
     margin: 0 16px;
     font-size: 14px;
