@@ -17,7 +17,7 @@
    
     max-width: 100%;
     width: 1400px;
-    height: 20;
+    height: 20px;
     flex-shrink: 0;
     background: #274F5C;
 }   
@@ -34,6 +34,11 @@ background: linear-gradient(180deg, #2AD75A 0%, #F5F5F5 99.99%, rgba(215, 42, 42
     max-width: 100%;
  width: 800px;
 height: 534px;
+flex-shrink: 0;
+}
+.rodape{
+width: 1400px;
+height: 108px;
 flex-shrink: 0;
 }
 .rodapenu{
@@ -68,8 +73,8 @@ background: #274F5C;
     margin: 0 16px;
     font-size: 14px;
 
-
-    top:125px;
+    position: absolute;
+    top:-16px;
     color:#FFFFFF;
     height: 23px;
     
