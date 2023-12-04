@@ -1,9 +1,9 @@
-.cabec { 
-    max-width: 100%;
+.cabec { max-width: 100%;
     width: 1400px;
     height: 420px;
     flex-shrink: 0;
-    background: linear-gradient(180deg, #33BD27 0%, rgba(51, 189, 39, 0.00) 100%);   
+    background: linear-gradient(180deg, #33BD27 0%, rgba(51, 189, 39, 0.00) 100%);  
+     
 }
 .cabec-img{
      max-width: 100%;
