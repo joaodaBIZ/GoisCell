@@ -18,6 +18,33 @@
     height: 50px;
     flex-shrink: 0;
     background: #274F5C;
+    .menu-lista{
+        width: 1400px;
+        font-family: 'Lucida Sans';
+        font-size: small; 
+        font-size: 14px;
+        position: absolute;
+        
+        height: 27px;
+        left: 0px;
+       
+    }
+    .menu-lista-item{
+        
+    
+    
+        display: inline-block;
+        margin: 0 16px;
+        font-size: 14px;
+    
+        
+        color:#FFFFFF;
+        height: 23px;
+        
+        display: inline-block;
+        padding: 4px;
+        margin: 0 16px;
+    }
 }
 .celular{
     left: 120px;
@@ -49,3 +76,4 @@
     flex-shrink: 0;
     background: linear-gradient(180deg, #33BD27 0%, rgba(51, 189, 39, 0.00) 100%);
 }
+
