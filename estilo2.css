@@ -1,75 +1,61 @@
-.cabec1{
-    max-width: 100%;
+.cabec { max-width: 100%;
     width: 1400px;
     height: 420px;
     flex-shrink: 0;
     background: linear-gradient(180deg, #33BD27 0%, rgba(51, 189, 39, 0.00) 100%);  
-
+     
 }
-.cabec1-img{
-    max-width: 100%;
+.cabec-img{
+     max-width: 100%;
     height: auto;
     display: block;
     margin: 0 auto;
 }
-.menumotorola{
+
+.menu{
+  
     max-width: 100%;
     width: 1400px;
     height: 50px;
     flex-shrink: 0;
     background: #274F5C;
-    .menu-lista{
-        width: 1400px;
-        font-family: 'Lucida Sans';
-        font-size: small; 
-        font-size: 14px;
-        position: absolute;
-        
-        height: 27px;
-        left: 0px;
-       
-    }
-    .menu-lista-item{
-        
-    
-    
-        display: inline-block;
-        margin: 0 16px;
-        font-size: 14px;
-    
-        
-        color:#FFFFFF;
-        height: 23px;
-        
-        display: inline-block;
-        padding: 4px;
-        margin: 0 16px;
-    }
-}
-.celular{
-    left: 120px;
-    top:150px;
-    position: absolute;
-    padding: 24px 0;
-}
-.celular-todos{
-    display: grid;
-    text-align: center;
-    grid-template-columns: 30% 30% 30%;
+
+
+}   
+
+.menu-lateral{
+width: 424px;
+height: 760px;
+flex-shrink: 0;
+background: linear-gradient(180deg, #2AD75A 0%, #F5F5F5 99.99%, rgba(215, 42, 42, 0.00) 100%);
 }
 
-.rodapenu2{
+
+.famili{
     max-width: 100%;
-    width: 1400px;
-    height: 331px;
-    flex-shrink: 0;
-    background: #274F5C;
+ width: 800px;
+height: 534px;
+flex-shrink: 0;
+}
+.rodape{
+    max-width:100% ;
+width: 1400px;
+height: 108px;
+flex-shrink: 0;
 }
 .rodape-img{
     text-align: center;
     width: 100%;
 }
-.rodapefinal2{
+.rodapenu{
+    max-width: 100%;
+width: 1400px;
+height: 331px;
+flex-shrink: 0;
+background: #274F5C;
+}
+
+.rodapefinal{
     max-width: 100%;
     width: 1400px;
     height: 205px;
@@ -77,3 +63,30 @@
     background: linear-gradient(180deg, #33BD27 0%, rgba(51, 189, 39, 0.00) 100%);
 }
 
+.menu-lista{
+    width: 1400px;
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    font-size: 14px;
+    position: absolute;
+    
+    height: 27px;
+    left: 0px;
+   
+}
+.menu-lista-item{
+    
+
+
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 14px;
+
+    
+    color:#FFFFFF;
+    height: 23px;
+    
+    display: inline-block;
+    padding: 4px;
+    margin: 0 16px;
+}
