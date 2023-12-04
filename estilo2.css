@@ -7,7 +7,17 @@
 
 }
 .cabec1-img{
-
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.menumotorola{
+    max-width: 100%;
+    width: 1400px;
+    height: 50px;
+    flex-shrink: 0;
+    background: #274F5C;
 }
 .celular{
     left: 120px;
@@ -19,4 +29,23 @@
     display: grid;
     text-align: center;
     grid-template-columns: 30% 30% 30%;
+}
+
+.rodapenu2{
+    max-width: 100%;
+    width: 1400px;
+    height: 331px;
+    flex-shrink: 0;
+    background: #274F5C;
+}
+.rodape-img{
+    text-align: center;
+    width: 100%;
+}
+.rodapefinal2{
+    max-width: 100%;
+    width: 1400px;
+    height: 205px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, #33BD27 0%, rgba(51, 189, 39, 0.00) 100%);
 }
